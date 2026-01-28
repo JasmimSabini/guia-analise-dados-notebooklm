@@ -22,7 +22,7 @@ Como o NotebookLM trabalha com uma interface de consulta própria, utilizei os d
 ---
 
 ### 🔗 Links Úteis
-* [Link do Guia no NotebookLM](https://notebooklm.google.com/notebook/060ebc4b-7a70-455c-99cc-a4587f39b6a0) (Opcional, caso queira deixar disponível)
+* [Link do Guia no NotebookLM](https://notebooklm.google.com/notebook/060ebc4b-7a70-455c-99cc-a4587f39b6a0)
 
 ---
 
